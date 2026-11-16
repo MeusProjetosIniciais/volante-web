@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#050A12",
     "theme_color": "#1CC7EE",
-    "description": "Controle de ganhos, km, combustível e manutenção para motoristas de aplicativo.",
+    "description": "Sua Rota, seu Controle. Ganhos, km, combustível e manutenção para motoristas de aplicativo.",
     "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
